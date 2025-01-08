@@ -22,6 +22,7 @@ Update Payment Info: This page allows users to access their stored payment infor
 
 Shopping Cart: This page concerns itself with storing any ‘saved’ items that the customer wants to purchase from the store. It also contains a way for the customer to check out, see the total price of the items, see the quantity of each item, and the individual prices of the items.
 
+![](./Shopping%20Cart.png)
 
 Checkout Page: When the user proceeds to the checkout page, they will be able to choose a shipping option and view the total cost of their order, including tax. If the user does not have an account, they can enter their payment information and billing address here. If the user does have an account, they can click the link at the top of the page. They will then be redirected to the login page. If the information on the checkout page looks correct, the user can place the order.
 
