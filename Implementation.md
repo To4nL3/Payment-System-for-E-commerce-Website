@@ -26,6 +26,7 @@ Shopping Cart: This page concerns itself with storing any ‘saved’ items that
 
 Checkout Page: When the user proceeds to the checkout page, they will be able to choose a shipping option and view the total cost of their order, including tax. If the user does not have an account, they can enter their payment information and billing address here. If the user does have an account, they can click the link at the top of the page. They will then be redirected to the login page. If the information on the checkout page looks correct, the user can place the order.
 
+![](./Checkout.png)
 
-Admin Transaction Management Page: This page is used solely by the administrator of the system (i.e., owner of business). Its purpose is to allow the admin full control over the transactions that have taken place on their store. If an edit is needed to be made to correct an error, or if an entire transaction is needed to be deleted
+Admin Transaction Management Page: This page is used solely by the administrator of the system (i.e., the owner of the business). Its purpose is to allow the admin full control over the transactions that have taken place in their store. If an edit is needed to be made to correct an error, or if an entire transaction needs to be deleted
 
