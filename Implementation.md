@@ -10,6 +10,7 @@ Login: Users can login to their accounts to access their user information and to
 
 New User: Allows users with no account to create one with the input of basic information. This gives them the ability to store payment credentials in the database and to update any information thereafter.
 
+![](./New%20User.png)
 
 Account Information Display: This page allows the user to see their stored information located in the database. On this page, the user is given the ability to update any payment information.
 
