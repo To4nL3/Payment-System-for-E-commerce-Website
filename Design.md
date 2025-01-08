@@ -23,5 +23,5 @@ The Account Table stores basic information about a user account, such as usernam
 
 ![](./database%20design.png)
 ## 3.4 Data Access and Manipulation Design
-![](./
+![](./Data%20Access%20n%20Manipulation%20Design.png)
 
