@@ -52,5 +52,6 @@ We designed 7 use cases for the system, which contains almost all of its functio
 ### 5\. Access Stored Credentials
 ![](./Access%20Stored%20Credentials.png)
 ### 6\. Manage Transactions  
+![](./Manage%20Transactions.png)
 
 
