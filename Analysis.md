@@ -49,6 +49,7 @@ We designed 7 use cases for the system, which contains almost all of its functio
 ![](./Update%20Account.png)
 ### 4\. Input Payment Credentials
 ![](./Input%20Payment%20Credentials.png)
+### 5\. Access S
 ### 6\. Manage Transactions  
 
 
