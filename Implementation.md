@@ -28,5 +28,7 @@ Checkout Page: When the user proceeds to the checkout page, they will be able to
 
 ![](./Checkout.png)
 
-Admin Transaction Management Page: This page is used solely by the administrator of the system (i.e., the owner of the business). Its purpose is to allow the admin full control over the transactions that have taken place in their store. If an edit is needed to be made to correct an error, or if an entire transaction needs to be deleted
+Admin Transaction Management Page: This page is used solely by the administrator of the system (i.e., the owner of the business). Its purpose is to allow the admin full control over the transactions that have taken place in their store. If an edit is needed to be made to correct an error, or if an entire transaction needs to be deleted.
+
+![](./Management%20Page.png)
 
