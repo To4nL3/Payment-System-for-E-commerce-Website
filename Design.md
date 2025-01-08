@@ -4,7 +4,7 @@
 
 The final class diagram is slightly different from the initial case diagram. One new class named “Order Status” has been added.
 
-![]
+![](./Final%20Class%20Diagram.jpg)
 
 ##
 
