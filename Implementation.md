@@ -18,6 +18,7 @@ Account Information Display: This page allows the user to see their stored infor
 
 Update Payment Info: This page allows users to access their stored payment information from the database and update it with more current information. This page is accessed through the ‘Account Information Display’ page.
 
+![](./Update%20Payment.png)
 
 Shopping Cart: This page concerns itself with storing any ‘saved’ items that the customer wants to purchase from the store. It also contains a way for the customer to check out, see the total price of the items, see the quantity of each item, and the individual prices of the items.
 
