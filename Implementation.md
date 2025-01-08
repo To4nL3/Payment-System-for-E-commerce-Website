@@ -14,6 +14,7 @@ New User: Allows users with no account to create one with the input of basic inf
 
 Account Information Display: This page allows the user to see their stored information located in the database. On this page, the user is given the ability to update any payment information.
 
+![](./Display%20Info.png)
 
 Update Payment Info: This page allows users to access their stored payment information from the database and update it with more current information. This page is accessed through the ‘Account Information Display’ page.
 
